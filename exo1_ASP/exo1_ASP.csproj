@@ -131,10 +131,18 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\drugo.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="images\bowling-big-lebowski.jpg" />
+    <Content Include="images\giphy.gif" />
+    <Content Include="images\map_of_los-angeles.jpg" />
+    <Content Include="images\the-big-lebowski-bowling-lane.jpg" />
+    <Content Include="images\The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg" />
+    <Content Include="images\the-big-lebowski.jpg" />
+    <Content Include="images\TheBigLebowski2_1440x810-1280x720.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -148,6 +156,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <None Include="Views\Home\Hobbies.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

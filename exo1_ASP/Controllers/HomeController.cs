@@ -26,5 +26,12 @@ namespace exo1_ASP.Controllers
 
             return View();
         }
+
+        public ActionResult Hobbies()
+        {
+            ViewBag.Message = "Your hobbies page.";
+
+            return View();
+        }
     }
 }
